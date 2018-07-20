@@ -1,0 +1,4 @@
+222222222222222222222222
+------------------------
+This is a new text file
+to test merges
